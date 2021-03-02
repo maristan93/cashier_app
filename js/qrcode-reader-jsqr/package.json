@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "qrcode-reader-jsqr@0.0.4",
+      "/projects/private/mateja_fax"
+    ]
+  ],
+  "_from": "qrcode-reader-jsqr@0.0.4",
+  "_id": "qrcode-reader-jsqr@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-X4Z1eRsUZ32ix8apCaZI786oJwNauqqOZWxEcaIYmFHaKKDKBm6hxNCKZ/Ym5aYOVIYPH/KJ733uxSZVxi/47A==",
+  "_location": "/qrcode-reader-jsqr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "qrcode-reader-jsqr@0.0.4",
+    "name": "qrcode-reader-jsqr",
+    "escapedName": "qrcode-reader-jsqr",
+    "rawSpec": "0.0.4",
+    "saveSpec": null,
+    "fetchSpec": "0.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/qrcode-reader-jsqr/-/qrcode-reader-jsqr-0.0.4.tgz",
+  "_spec": "0.0.4",
+  "_where": "/projects/private/mateja_fax",
+  "author": {
+    "name": "Maurizio Manetti",
+    "url": "https://mauntrelio.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/mauntrelio/qrcode-reader/issues"
+  },
+  "dependencies": {
+    "jquery": ">=1.9"
+  },
+  "description": "A jQuery plugin implementing a browser interface for the cozmo jsQR QR code reading library",
+  "docs": "https://github.com/mauntrelio/qrcode-reader",
+  "download": "https://github.com/mauntrelio/qrcode-reader/zipball/master",
+  "homepage": "https://github.com/mauntrelio/qrcode-reader",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "jquery",
+    "qrcode",
+    "ui"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mauntrelio/qrcode-reader/blob/master/LICENSE.txt"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Maurizio Manetti",
+      "email": "maurizio@imanetti.net",
+      "url": "https://mauntrelio.github.io"
+    }
+  ],
+  "name": "qrcode-reader-jsqr",
+  "title": "Interface for the cozmo jsQR QR code reading library",
+  "version": "0.0.4"
+}
